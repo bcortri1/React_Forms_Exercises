@@ -1,0 +1,11 @@
+.Box {
+    background-color: black;
+    display: inline-block;
+}
+
+.remove-box-btn {
+    align-self: self-start;
+    border-radius: 50%;
+    border-color: transparent;
+    margin-right: 10px;
+}

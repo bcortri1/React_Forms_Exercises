@@ -1,0 +1,9 @@
+.ToDo {
+    display: block;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.remove-todo-btn {
+    margin-right: 10px;
+}

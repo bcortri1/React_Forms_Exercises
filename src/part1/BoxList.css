@@ -1,0 +1,7 @@
+.BoxList {
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px;
+}

@@ -1,0 +1,5 @@
+#new-box-form {
+    display: flex;
+    align-items: left;
+    flex-flow: column;
+}

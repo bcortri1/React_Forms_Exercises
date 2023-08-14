@@ -1,0 +1,5 @@
+#new-todo-form {
+    display: flex;
+    align-items: left;
+    flex-flow: column;
+}
